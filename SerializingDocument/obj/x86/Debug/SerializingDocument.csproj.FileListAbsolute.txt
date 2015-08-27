@@ -1,0 +1,9 @@
+D:\ForTesting\SerializingDocument\SerializingDocument\bin\Debug\SerializingDocument.exe
+D:\ForTesting\SerializingDocument\SerializingDocument\bin\Debug\SerializingDocument.pdb
+D:\ForTesting\SerializingDocument\SerializingDocument\obj\x86\Debug\SerializingDocument.exe
+D:\ForTesting\SerializingDocument\SerializingDocument\obj\x86\Debug\SerializingDocument.pdb
+D:\ForTesting\SerializingDocument\SerializingDocument\obj\x86\Debug\SerializingDocument.csprojResolveAssemblyReference.cache
+D:\ForTesting\SerializingDocument\SerializingDocument\bin\Debug\SerializingDocument.exe.config
+C:\Users\mkuchtc\Desktop\SerializingDocument\SerializingDocument\bin\Debug\SerializingDocument.exe.config
+C:\Users\mkuchtc\Desktop\SerializingDocument\SerializingDocument\obj\x86\Debug\SerializingDocument.exe
+C:\Users\mkuchtc\Desktop\SerializingDocument\SerializingDocument\obj\x86\Debug\SerializingDocument.pdb

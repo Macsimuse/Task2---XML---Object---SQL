@@ -1,0 +1,4 @@
+D:\ForTesting\SerializingDocument\ClassContainer\ClassContainer\bin\Debug\ClassContainer.dll
+D:\ForTesting\SerializingDocument\ClassContainer\ClassContainer\bin\Debug\ClassContainer.pdb
+D:\ForTesting\SerializingDocument\ClassContainer\ClassContainer\obj\Debug\ClassContainer.dll
+D:\ForTesting\SerializingDocument\ClassContainer\ClassContainer\obj\Debug\ClassContainer.pdb
