@@ -18,7 +18,7 @@ namespace SerializingDocument
                SqlCommand command = null;
                try
                {
-                   connection.ConnectionString = @"Data Source=localhost;Initial Catalog=ADO-Net;Integrated Security=True;Pooling=False";
+                   connection.ConnectionString = @"Data Source=C:\Users\mkuchtc\Desktop\SerializingDocument\SerializingDocument\_ADO_NetDataSet.xsd;Initial Catalog=ADO-Net;Integrated Security=True;Pooling=False";
                    connection.Open();
                    foreach (item it in items)
                    {
